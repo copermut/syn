@@ -1,4 +1,10 @@
-# copermut.github.io
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+# copermut
 
 [permut.co](http://permut.co) – Web project on information theory, graph patterns, permutations, and recombinations
 
