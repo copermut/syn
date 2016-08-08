@@ -25,7 +25,7 @@ color-2: '#26B99A'
 
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 gems: ["jemoji"]
 
 sass:
