@@ -1,3 +1,8 @@
+---
+layout: post
+title: High shear mixers
+---
+
 <sup>`TODO:finish`</sup>
 
 - High shear mixers are used to ...
