@@ -32,8 +32,6 @@
   - unmarked, but via _[[Ground truth]]_
 - [[ﾌ]]
   - source precedes <sup>`TODO:find`</sup>
-- [[フ]]
-  - alternative? totally contrived, affected
 
 ## Unsure if already exist in Wiki
 
