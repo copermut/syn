@@ -1,0 +1,2 @@
+- Redirect agent to process YAML on _e.g._ {{queck :: meta: design: heuristics}}, {{copermut :: Eye movement desensitisation and reprocessing}}
+- Reference parser for list of markdown links _e.g._ aforementioned [EMDR](https://github.com/lmmx/copermut/wiki/Eye-movement-desensitisation-and-reprocessing) Wiki pull-down

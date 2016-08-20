@@ -27,6 +27,17 @@ layout: post
 
 - ! [List of permutation topics](https://en.wikipedia.org/wiki/List_of_permutation_topics) !
 
+- [[LS coupling]], via [[State space is the place]]
+
+## Exist but unopened
+
+- [[On buffers]]
+  - unmarked, but via _[[Ground truth]]_
+- [[ﾌ]]
+  - source precedes <sup>`TODO:find`</sup>
+- [[フ]]
+  - alternative? totally contrived, affected
+
 ## Unsure if already exist in Wiki
 
 - On the algorithm-data structure morphism discussed at MatBio2016 conference

@@ -1,6 +1,3 @@
----
-layout: post
----
 - Numbers correspond to `#` in:
   - [lmmx/shots](https://github.com/lmmx/shots/tree/master/) :: [2016/Aug](https://github.com/lmmx/shots/tree/master/2016/Aug) + filename c-17-`#`-permutation-groups.png
 

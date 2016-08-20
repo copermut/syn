@@ -15,3 +15,5 @@ Louis Maddox, University of Manchester
 Bioinformatics and Systems Biology MSc  
 Twitter: [@permutans](https://twitter.com/permutans)  
 Blog: [biochemistri.es](http://biochemistri.es)
+- - -
+Emerging project: [spin.systems](http://spin.systems)
