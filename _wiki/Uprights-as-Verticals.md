@@ -18,6 +18,3 @@ Turing calls uprights what I called 'verticals' http://www.turingarchive.org/vie
 {{`TODO:develop`}}
 
 See: [[Permutation Groups (Alan Turing)]]
-
-Chain:
-- 
