@@ -6,7 +6,7 @@ permalink: /about/
 
 # copermut
 
-[permut.co](http://permut.co) – Web project on information theory, graph patterns, permutations, … [copermutations](permut.co/Copermutations-Mathematical-meanings/)
+[permut.co](http://permut.co) – Web project on information theory, graph patterns, permutations, … [_copermutations_](http://permut.co/Copermutations-Mathematical-meanings/)
 
 > `(478)(356) ⪯ `:computer:
 
