@@ -11,12 +11,12 @@ permalink: /about/
 > `(478)(356) ⪯ `:computer:
 
 ### Aims:
-- __self-hosted__ `:` first project on own server
-- __built with Structr__ `:` parallel [Neo4j](https://neo4j.com) database (else [Cayley](https://github.com/cayleygraph/cayley))
-- __design and form graph database of concepts__ `:` named entities as well as Wiki-structured map
+- __self-hosted__ as a first project on my own server
+- __built with Structr__ parallel [Neo4j](https://neo4j.com) database (else [Cayley](https://github.com/cayleygraph/cayley))
+- __design and form graph database of concepts__ named entities as well as Wiki-structured map
 
 ### Long term goals:
-- management of abstract/deep connections inferred through a hypergraph database on top of Neo4j
+- I'd like to 'manage' the abstract/'deep' connections inferred through a [hypergraph](https://en.wikipedia.org/wiki/Hypergraph) database (e.g. _Structr_) on top of a graph database. In a roundabout way, this is what companies such as Facebook and Google do on my behalf already, but without transparency, agency, or insight. It could be quite powerful as a deliberately implemented personal research tool.
   - study own and/or user learning/attention processes ('explanatory' modelling)
   - machine learning models (TensorFlow)
 - offline RDF analysis: concept graph enrichment/structuring
