@@ -38,7 +38,9 @@ The project outlined above could be quite powerful as a deliberately implemented
 
 # About the author
 
-> Louis Maddox, BSc Biochemistry 2015, MSc Bioinformatics and Systems Biology 2015-16
+> Louis Maddox  
+BSc Biochemistry 2015  
+MSc Bioinformatics and Systems Biology 2015-16
 
 Hello, and thanks for checking out this project :-)
 
