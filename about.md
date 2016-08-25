@@ -16,10 +16,18 @@ permalink: /about/
 - __design and form graph database of concepts__ named entities as well as Wiki-structured map
 
 ### Long term goals:
-I'd like to 'manage' the abstract/'deep' connections inferred through a [hypergraph](https://en.wikipedia.org/wiki/Hypergraph) database (e.g. _Structr_) on top of a graph database. In a roundabout way, this is what companies such as Facebook and Google do on my behalf already, but without transparency, agency, or insight. It could be quite powerful as a deliberately implemented personal research tool.
 
+I'd like to 'manage' the abstract/'deep' connections inferred through a [hypergraph](https://en.wikipedia.org/wiki/Hypergraph) database (e.g. _Structr_) 'on top of' a graph database (mapping items to one another, with some level of reasoning and accountability in doing so). In a roundabout way, this is what classic web companies such as Facebook, Twitter and Google do on my behalf already.
 
-To study my own and/or some other reader's learning/attention processes ('explanatory' modelling). I've made bots for research literature updates to Twitter in the past, and you can now get 'feedback' on the attention given to their output on a per-post basis, which could - maybe - guide a development, if not quite machine learning, process.
+As much as I try to make the most of these services for research, the models they build of my web experience is locked away from view, so I'll be exploring other ways of getting insight on knowledge, as it exists 'in the real world' of my interactions with thoughts and ideas.
+
+The project outlined above could be quite powerful as a deliberately implemented personal research tool (which isn't really something I've seen attempted).
+
+- to study your own learning/attention processes ('explanatory' modelling), and/or those of readers of some output from them (use your imagination really)
+  - I've made bots for research literature updates to Twitter in the past, and you can now get 'feedback' on the attention given to their output on a per-post basis, which could - maybe - guide a development, if not quite machine learning, process. Two concepts along this line of thought are: [_queck_](https://github.com/lmmx/queck), and [_nat_](https://github.com/lmmx/nat/wiki) (more details TBC)
+
+  - machine learning models (I use _TensorFlow_ mainly) could extend the 'understanding' from simple links to some level of reason. In the long run, I'd like for some means for a system like this to anticipate things I'd like to read/know about, and to try using computational logic systems
+
 
 ### Research-assistive application:
 - Biological research-oriented spin-off with the same format, use of biological linked data ("[ontologies](http://obofoundry.org)")
