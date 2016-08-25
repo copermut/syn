@@ -16,10 +16,10 @@ permalink: /about/
 - __design and form graph database of concepts__ named entities as well as Wiki-structured map
 
 ### Long term goals:
-- I'd like to 'manage' the abstract/'deep' connections inferred through a [hypergraph](https://en.wikipedia.org/wiki/Hypergraph) database (e.g. _Structr_) on top of a graph database. In a roundabout way, this is what companies such as Facebook and Google do on my behalf already, but without transparency, agency, or insight. It could be quite powerful as a deliberately implemented personal research tool.
-  - study own and/or user learning/attention processes ('explanatory' modelling)
-  - machine learning models (TensorFlow)
-- offline RDF analysis: concept graph enrichment/structuring
+I'd like to 'manage' the abstract/'deep' connections inferred through a [hypergraph](https://en.wikipedia.org/wiki/Hypergraph) database (e.g. _Structr_) on top of a graph database. In a roundabout way, this is what companies such as Facebook and Google do on my behalf already, but without transparency, agency, or insight. It could be quite powerful as a deliberately implemented personal research tool.
+
+
+To study my own and/or some other reader's learning/attention processes ('explanatory' modelling). I've made bots for research literature updates to Twitter in the past, and you can now get 'feedback' on the attention given to their output on a per-post basis, which could - maybe - guide a development, if not quite machine learning, process.
 
 ### Research-assistive application:
 - Biological research-oriented spin-off with the same format, use of biological linked data ("[ontologies](http://obofoundry.org)")
