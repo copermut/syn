@@ -6,14 +6,14 @@ permalink: /about/
 
 # copermut
 
-[permut.co](http://permut.co) – Web project on information theory, graph patterns, permutations, and recombinations
+[permut.co](http://permut.co) – Web project on information theory, graph patterns, permutations, … copermutations
 
 > `(478)(356) ⪯ `:computer:
 
 ### Aims:
-- self-hosted: first project on own server
-- built with Structr and parallel Neo4j
-- design and form graph database of concepts (named entities as well as Wiki-structured map)
+- __self-hosted__ `:` first project on own server
+- __built with Structr__ `:` parallel [Neo4j](https://neo4j.com) database (else [Cayley](https://github.com/cayleygraph/cayley))
+- __design and form graph database of concepts__ `:` named entities as well as Wiki-structured map
 
 ### Long term goals:
 - management of abstract/deep connections inferred through a hypergraph database on top of Neo4j
