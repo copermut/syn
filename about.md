@@ -34,9 +34,15 @@ The project outlined above could be quite powerful as a deliberately implemented
 
 - see: [Wiki](https://github.com/lmmx/copermut/wiki) consolidating readings and discussions of {category,graph,order} theory, {geometric,linear,matrix} algebra, {ML,DL,NLP} — _etc._ — as imaginative routes and progressive community resource in systems biology, genomic statistics, and their surrounding communities in the computer, life, and physical sciences.
 
+- - -
+
 # About the author
 
-Louis Maddox, BSc Biochemistry 2015, MSc Bioinformatics and Systems Biology 2015-16
+> Louis Maddox, BSc Biochemistry 2015, MSc Bioinformatics and Systems Biology 2015-16
+
+Hello, and thanks for checking out this project :-)
+
+It's just in a draft phase at the moment, so apologies for any confusion the documents here may cause! Feedback and pull requests to the source code repository are welcome.
 
 I graduated with a degree in Biochemistry in 2015 after an undergraduate stint at the University of Manchester, and a summer’s research placement with the Babu group at the MRC-LMB in Cambridge, which came about thanks to shared interests in intrinsically disordered proteins, the topic of my 2nd year dissertation, and various posts on my blog, [_biochemistri.es_](http://biochemistri.es).
 
