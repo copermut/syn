@@ -44,7 +44,7 @@ layout: post
             - in place of agency there is: ...
             - (...incompletion, i.e. channelling
             - (that is to say temporal control above the granularity of user-user interaction
-            - {note on notation: Hales's notes on _Vegetable Staticks' section on Newton's [notes on air](https://www.instagram.com/p/BIrG5C5Dy-H/?taken-by=lmmddx) gave quotation marks in left hand margin only,  
+            - {note on notation: Hales's notes on _Vegetable Staticks_' section on Newton's [notes on air](https://www.instagram.com/p/BIrG5C5Dy-H/?taken-by=lmmddx) gave quotation marks in left hand margin only,  
               {which appeared odd however in fact clarifies continuation of clausal relations
               {[which I guess include the punctuational]
               { ... point being that the closer does not have to be given, it is logically assumed in context
