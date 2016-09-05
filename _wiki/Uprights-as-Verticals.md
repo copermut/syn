@@ -1,8 +1,6 @@
 # (?)
 
-_logged into 8 computers as a thought experiment..._
-
-Turing calls uprights what I called 'verticals' http://www.turingarchive.org/viewer/?id=133&title=13
+Turing calls uprights what I was looking towards with 'verticals' http://www.turingarchive.org/viewer/?id=133&title=13
 
 > # `c` `o` `p` `e` `r` `m` `u` `t`
 
@@ -14,6 +12,8 @@ Turing calls uprights what I called 'verticals' http://www.turingarchive.org/vie
   - left-justified, a [self-conjugate](http://mathworld.wolfram.com/Self-ConjugatePartition.html) partition is one with diagonal symmetry (see: [conjugate partition](http://mathworld.wolfram.com/ConjugatePartition.html))
 
     ![](https://raw.githubusercontent.com/lmmx/shots/master/2016/Aug/SelfConjugatePartitions_1000.gif)
+
+- [Stahl (1991)](http://www.sciencedirect.com/science/article/pii/009589569190062O) : Permutation-partition pairs are "generalizations of graphs… the formalization of the concept of a graph with a partially specified embedding".
 
 {{`TODO:develop`}}
 

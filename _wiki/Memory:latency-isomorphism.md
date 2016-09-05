@@ -44,3 +44,9 @@
 
 - Structuring knowledge is essential, in fact without it new information is a progressive pollutant.
   - expanded on in [[consolidation]]
+
+- - -
+
+Appeared in Cover & Thomas's _Elements of Information Theory text ([notes here](https://github.com/spin-systems/statistical-reads/wiki/Cover-and-Thomas-(2013,-2e)-Elements-of-Information-Theory))
+
+![](https://raw.githubusercontent.com/lmmx/shots/d99beca49491622dab7b948f7356841f6ea4aafb/2016/Aug/comp-comm-isomerism-found.png)

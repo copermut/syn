@@ -1,10 +1,11 @@
 ---
 layout: post
 ---
-<sup>`TODO:look into`</sup>
+There are multiple uses of the word 'copermutation' in the modern day mathematical literature.
 
-No instances of the word "copermutation" on arXiv.
-3 instances found on Google Scholar:
+Just 3 instances can be found on Google Scholar: for the time being I've only looked into the first of these meanings, by Saul Stahl.
+
+- see: [[Permutation partition pairs]]
 
 1. Stahl 1991 [Permutation-partition pairs. III. Embedding distributions of linear families of graphs](http://dx.doi.org/10.1016/0095-8956(91)90062-O)
 ![](https://raw.githubusercontent.com/lmmx/shots/master/2016/Jul/stahl-1991-copermutations.png)

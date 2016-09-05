@@ -1,0 +1,9 @@
+- If an RSS feed 'consumes' a post before it is finished (in draft) then it can be fed something, then the original deleted
+- This represents a storage medium
+  - This represents a channel
+- If an RSS feed can be fed to represent a state in time this represents a temporal channel
+  - If the same item can be represented in different feeds it can be a channel of multiple states in time
+  - i.e. a feed can be read at multiple points in time, passed to 'mirror' feeds which end up differing slightly
+- If multiple RSS feeds 'consume' a post it is stored.. in permutations?
+---
+- Essentially RSS readers are a big data maw that don't check for reversioning/edition - not sure about deletion
