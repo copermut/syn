@@ -97,4 +97,4 @@ and so on
 
 - NB loss of line beginning `- [cont.]: (NB elided list levels here,` in HTML !
 
-<sub>too meta to function...</sub>
+<sub>too meta to function... :expressionless: :sweat_smile: </sub>
