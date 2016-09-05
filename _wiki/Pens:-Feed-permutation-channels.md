@@ -53,3 +53,23 @@
 
 - __NB__: more hypothetical/theoretical than the identitarian focus of the tweet being responded to
   - more signal processing / information theoretical notion but obviously application domain is open
+
+### Closing note
+
+- _Bizarre_ - the note on elision is omitted. Not a clue / do not want to decipher why
+  - All the HTML on the website is compressed to a single line :no_mouth: 
+
+- is that good...? It seems wrong... is this a corollary of the AMP integration??? is this a means towrds dense encoding via Google best web practices?
+
+- ...line breaks added to the following to match screen...
+
+```html
+temporal control above the granularity of user-user interaction</li><li>{note on notation: Hales’s notes on _Vegetable Staticks’ section on Newton’s <a 
+href="https://www.instagram.com/p/BIrG5C5Dy-H/?taken-by=lmmddx">notes on air</a> gave quotation marks in left hand margin only,<br /> {which appeared odd however in 
+fact clarifies continuation of clausal relations {[which I guess include the punctuational] { … point being that the closer does not have to be given, it is logically 
+assumed in context</li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul><ul><li><ul><li>dynamical state: oscillations are created in miRNA-imposed 
+decay inducing delay in a system of gene regulation</li></ul></li><li><strong>NB</strong>: more hypothetical/theoretical than the identitarian focus of the tweet being 
+responded to<ul><li>more signal processing / information theoretical notion but obviously application domain is open</li></ul></li></ul></div></article></div><div
+```
+
+and so on
