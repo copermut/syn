@@ -73,3 +73,21 @@ responded to<ul><li>more signal processing / information theoretical notion but 
 ```
 
 and so on
+
+- via original markdown:
+
+```
+            - (that is to say temporal control above the granularity of user-user interaction
+            - {note on notation: Hales's notes on _Vegetable Staticks' section on Newton's [notes on air](https://www.instagram.com/p/BIrG5C5Dy-H/?taken-by=lmmddx) gave quotation marks in left hand margin only,  
+              {which appeared odd however in fact clarifies continuation of clausal relations
+              {[which I guess include the punctuational]
+              { ... point being that the closer does not have to be given, it is logically assumed in context
+
+<!-- NB impossible to break out of dense constructs like that without ruining structure except by comment -->
+
+- [cont.]: (NB elided list levels here, also NB invisible HTML comment precedes this line)
+    - dynamical state: oscillations are created in miRNA-imposed decay inducing delay in a system of gene regulation
+
+- __NB__: more hypothetical/theoretical than the identitarian focus of the tweet being responded to
+  - more signal processing / information theoretical notion but obviously application domain is open
+```
