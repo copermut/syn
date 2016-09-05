@@ -91,3 +91,7 @@ and so on
 - __NB__: more hypothetical/theoretical than the identitarian focus of the tweet being responded to
   - more signal processing / information theoretical notion but obviously application domain is open
 ```
+
+- NB loss of line beginning `- [cont.]: (NB elided list levels here,` in HTML !
+
+<sub>too meta to function...</sub>
