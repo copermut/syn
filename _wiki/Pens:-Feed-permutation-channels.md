@@ -95,3 +95,19 @@ and so on
 - NB loss of line beginning `- [cont.]: (NB elided list levels here,` in HTML !
 
 <sub>too meta to function... :expressionless: :sweat_smile: </sub>
+
+## Post-script
+
+[Deleted tweets]
+
+> - eugh.. just spun out a latent idea on channels and 'awaiting' agents with some level of entanglement & then train ticket fell out my pocket
+> - …with Samaritans/slogan on the back, ‘We don't just hear you, we listen’ – bit too pertinent to Boltzmann/Turing  
+:confused:   
+info theory is so strange
+
+- Deleted because given length restrictions may be alarming
+  - May appear to be cry for help rather than casual musing
+    - Boltzmann's suicidal ideation can only be discussed in the context of slow-moving media like blogs etc. I suppose
+       - [earlier tonight - [http://biochemistri.es/ideators](http://biochemistri.es/ideators) ]
+  - Immediate systems necessitate immediate action from their participants in a lot of ways
+    - This may well be responsible for detrimental aspects in many cases
