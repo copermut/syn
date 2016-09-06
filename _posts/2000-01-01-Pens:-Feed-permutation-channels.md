@@ -114,3 +114,8 @@ info theory is so strange
        - [earlier tonight - [http://biochemistri.es/ideators](http://biochemistri.es/ideators) ]
   - Immediate systems necessitate immediate action from their participants in a lot of ways
     - This may well be responsible for detrimental aspects in many cases
+
+- Effect of the above: restrict __edition__ to localhost, then preview to local network [GitHub wiki on my account] then back to localhost to pass Wiki repo files to website repo (not possible via GH web interface) then push to live website
+  - decoupling of edits at least for a delay period, but _eventually consistent_, as Christoph discusses with addition of _distributed_
+    - ["Distributed, Eventually Consistent Computations" by Christopher Meiklejohn](https://www.youtube.com/watch?v=lsKaNDj4TrE)
+      - see _[[Lasp Selective Hearing model]]_
